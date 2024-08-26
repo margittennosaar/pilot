@@ -7,13 +7,6 @@ just a text about something awesome. Foxes forever!
 just a text about something awesome. Foxes forever!
 just a text about something awesome. Foxes forever!
 
-### third headline
-
-just a text about something awesome. Foxes forever!
-just a text about something awesome. Foxes forever!
-just a text about something awesome. Foxes forever!
-just a text about something awesome. Foxes forever!
-
 #### fourth headline
 
 - just a text about something awesome. 
@@ -34,4 +27,4 @@ this text will be **bold** and this is *cursive*
 
 If you want to highlight the term use backticks like `that`
 
-:relieved:
+:fox_face:
